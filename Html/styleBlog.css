@@ -1,0 +1,26 @@
+.blog1{
+    margin-top: 20px;
+    min-height: 600px;
+    min-width: 200px;
+    background: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)),url(../images/organic1.jpg);
+
+    
+}
+.h11{
+    font-size: 70px;
+    text-align: center;
+    color:rgb(115, 240, 115)
+}
+.h12{
+    font-size: 50px;
+    text-align: center;
+    color:rgb(125, 243, 203)
+}
+.para1{
+    color:rgb(251, 231, 231);
+    /* top */
+    margin: 20px 50px 20px 50px;    
+}
+
+
+
