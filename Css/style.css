@@ -36,12 +36,12 @@
     text-decoration: none;
     font-size: 13px;
  }
- /* For adding hover effect into the list*/
+ /* For adding hover effect into the list */
  .nav-links ul li::after{
     content: '';
     width: 0%;
     height: 2px;
-    background:lightgreen;
+    background:green;
     display: block;
     border-radius: 12px;
     margin: auto;
