@@ -1,26 +1,64 @@
 .blog1{
     margin-top: 20px;
-    min-height: 600px;
+    /* min-height: 200px; */
     min-width: 200px;
     background: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)),url(../images/organic1.jpg);
+    display:flex;
 
     
 }
 .h11{
     font-size: 70px;
     text-align: center;
-    color:rgb(115, 240, 115)
+    
+}
+.organicImg{
+    margin-top: 80px;
+}
+
+.para1{
+    color:rgb(251, 231, 231);
+    /* top left bottom right */
+    margin: 20px 50px 20px 50px; 
+    font-size: large;   
+}
+.blog2{
+    background:url(../images/organic2.jpg)
 }
 .h12{
     font-size: 50px;
     text-align: center;
-    color:rgb(125, 243, 203)
+    color:rgb(0, 0, 0)
 }
-.para1{
-    color:rgb(251, 231, 231);
-    /* top */
-    margin: 20px 50px 20px 50px;    
+.h41{
+    color: rgb(7, 67, 7);
+    margin-left:50px;
+    font-size: 40px;
+    
 }
+
+.para2,.para3{
+    font-size:large;
+    margin: 20px 50px 20px 50px;
+}
+.para3{
+    color:rgb(68, 23, 23)
+}
+
+.blog4{
+    display:flex;
+    
+
+}
+.cropRotation{
+    background-image:linear-gradient(to right,rgb(3, 76, 3),lightgreen,rgb(241, 241, 160));
+    margin-right:30px;
+    margin-left:50px;
+}
+
+
+    
+
 
 
 
