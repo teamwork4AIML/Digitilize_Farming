@@ -14,6 +14,9 @@
 }
 .organicImg{
     margin-top: 80px;
+    
+    
+    
 }
 
 .para1{
@@ -26,7 +29,7 @@
     background:url(../images/organic2.jpg)
 }
 .h12{
-    font-size: 50px;
+    font-size: 70px;
     text-align: center;
     color:rgb(0, 0, 0)
 }
@@ -45,16 +48,49 @@
     color:rgb(68, 23, 23)
 }
 
-.blog4{
+/* .blog4{
     display:flex;
+    background:linear-gradient(rgba(0,0,0,0.55),rgba(0,0,0,0.5)),url(../images/banner2.jpeg);
+
     
 
+} */
+.blog4{
+    margin-top: 20px;
+    /* min-height: 200px; */
+    min-width: 200px;
+    background: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)),url(../images/banner2.jpeg);
+    display:flex;
+    background-size:cover;
+
+    
+}
+.rotationImg{
+    margin-top:80px;
+    margin-bottom: 80px;
+    
 }
 .cropRotation{
-    background-image:linear-gradient(to right,rgb(3, 76, 3),lightgreen,rgb(241, 241, 160));
+    color:white;
+    
     margin-right:30px;
     margin-left:50px;
+    margin-top:30px;
+    
+    
 }
+.h4{
+    margin-top:20px;
+    font-size: 50px;
+}
+/* #im{
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    filter: blur(8px);
+  -webkit-filter: blur(8px);
+} */
+
 
 
     
