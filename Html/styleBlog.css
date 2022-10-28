@@ -14,7 +14,7 @@
 }
 .organicImg{
     margin-top: 80px;
-    
+    margin-bottom: 80px;
     
     
 }
@@ -22,7 +22,7 @@
 .para1{
     color:rgb(251, 231, 231);
     /* top left bottom right */
-    margin: 20px 50px 20px 50px; 
+    margin: 80px 50px 20px 50px; 
     font-size: large;   
 }
 .blog2{
@@ -77,9 +77,9 @@
     
     margin-right:30px;
     margin-left:50px;
-    margin-top:30px;
+    margin-top:80px;
     
-    
+}   
 
 
 .h4{
